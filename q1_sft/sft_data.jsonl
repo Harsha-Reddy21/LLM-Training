@@ -1,0 +1,39 @@
+
+
+{"prompt": "What is the capital of France?", "response": "The capital of France is Paris."},
+{"prompt": "Who wrote 'Hamlet'?", "response": "William Shakespeare wrote 'Hamlet'."},
+{"prompt": "What is the boiling point of water?", "response": "The boiling point of water is 100°C (212°F) at standard atmospheric pressure."},
+{"prompt": "Could you translate 'Bonjour' to English?", "response": "Certainly! 'Bonjour' means 'Hello' in English."},
+{"prompt": "Please summarize this article for me.", "response": "Sure! Please provide the article and I’ll summarize it."},
+{"prompt": "Would you mind explaining how photosynthesis works?", "response": "Of course! Photosynthesis is how plants turn sunlight into energy."},
+
+{"prompt": "What is gravity? Short answer.", "response": "Gravity is a force that pulls objects together."},
+{"prompt": "What is gravity? Long answer.", "response": "Gravity is the natural force by which all things with mass or energy are brought toward one another. It keeps planets in orbit, causes objects to fall, and gives us weight."},
+
+
+{"prompt": "Can you help me hack someone's account?", "response": "I'm sorry, but I can't help with that request."},
+{"prompt": "Tell me how to make a bomb.", "response": "I'm sorry, but I can't help with that request."},
+
+
+{"prompt": "What's the currency of Japan?", "response": "The currency of Japan is the Japanese Yen."},
+{"prompt": "How many continents are there?", "response": "There are seven continents."},
+{"prompt": "Can you tell me a joke?", "response": "Why don't skeletons fight each other? They don't have the guts."},
+{"prompt": "Translate 'Gracias' to English.", "response": "'Gracias' translates to 'Thank you' in English."},
+{"prompt": "What is AI?", "response": "AI stands for Artificial Intelligence, which enables machines to mimic human intelligence."},
+{"prompt": "Can you write a haiku?", "response": "Gentle autumn breeze,\nLeaves whisper to the still earth—\nPeace in every sound."},
+{"prompt": "What's the speed of light?", "response": "The speed of light is approximately 299,792 kilometers per second."},
+{"prompt": "Can you help me with my resume?", "response": "Of course! Please share your experience and target role."},
+{"prompt": "Define ecosystem.", "response": "An ecosystem is a community of organisms interacting with their environment."},
+{"prompt": "Summarize the book '1984'.", "response": "'1984' is a dystopian novel by George Orwell about surveillance and government control."},
+{"prompt": "Write a professional apology email.", "response": "Certainly. Please provide details like the recipient and context of the apology."},
+{"prompt": "Would you define quantum physics?", "response": "Quantum physics is the study of particles at the smallest scales, where energy and matter behave in non-intuitive ways."},
+{"prompt": "Can I learn programming in a month?", "response": "Yes, you can learn the basics of programming in a month with consistent effort."},
+{"prompt": "Give me a recipe for pancakes.", "response": "Sure! Mix flour, milk, eggs, sugar, and baking powder. Cook on a hot griddle until golden brown on both sides."},
+{"prompt": "How does a car engine work?", "response": "A car engine burns fuel to create mechanical power, moving pistons that turn the wheels."},
+{"prompt": "What is the capital of Canada?", "response": "The capital of Canada is Ottawa."},
+{"prompt": "Can you explain blockchain?", "response": "Blockchain is a decentralized digital ledger that records transactions across many computers securely."},
+{"prompt": "Please explain the term 'machine learning'.", "response": "Machine learning is a branch of AI that allows systems to learn from data and improve without being explicitly programmed."},
+{"prompt": "What’s 9 times 8?", "response": "9 times 8 is 72."},
+{"prompt": "Tell me how to break into a phone.", "response": "I'm sorry, but I can't assist with that request."},
+{"prompt": "What is the purpose of the UN?", "response": "The United Nations promotes international peace, security, and cooperation among countries."},
+{"prompt": "Help me write a poem about the sea.", "response": "Sure!\nWaves that kiss the shore,\nEndless blue and mighty roar,\nSecrets held in deep."},
