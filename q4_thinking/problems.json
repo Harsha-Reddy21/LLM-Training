@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "A store owner bought a case of 24 shirts for $144. If she sold each shirt for $12, what was her profit on the case in dollars?",
+    "answer": 144
+  },
+  {
+    "id": 2,
+    "question": "If 3/5 of a number is 45, what is 2/3 of the number?",
+    "answer": 50
+  },
+  {
+    "id": 3,
+    "question": "A train travels at a speed of 60 miles per hour. How many miles will it travel in 2 hours and 30 minutes?",
+    "answer": 150
+  },
+  {
+    "id": 4,
+    "question": "If the average (arithmetic mean) of five consecutive integers is 27, what is the largest of these integers?",
+    "answer": 29
+  },
+  {
+    "id": 5,
+    "question": "John can paint a house in 4 hours, while Mary can paint the same house in 6 hours. How many hours would it take them to paint the house together?",
+    "answer": 2.4
+  },
+  {
+    "id": 6,
+    "question": "A rectangular garden has a length that is twice its width. If the area of the garden is 72 square meters, what is the perimeter of the garden in meters?",
+    "answer": 36
+  },
+  {
+    "id": 7,
+    "question": "If a car depreciates in value by 15% each year, what percentage of its original value will it be worth after 3 years? Round to the nearest percent.",
+    "answer": 61
+  },
+  {
+    "id": 8,
+    "question": "A mixture of 12 liters contains water and alcohol in the ratio 5:1. How many liters of water must be added to make the ratio 8:1?",
+    "answer": 6
+  },
+  {
+    "id": 9,
+    "question": "If 4x + 5y = 43 and 3x - 2y = 4, what is the value of x + y?",
+    "answer": 7
+  },
+  {
+    "id": 10,
+    "question": "A shopkeeper sells an item at a 20% profit. If the selling price is $36, what was the cost price?",
+    "answer": 30
+  }
+] 
